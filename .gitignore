@@ -8,3 +8,6 @@ myvenv
 .env
 *.csv
 settings.py
+
+Pipfile
+Pipfile.lock
